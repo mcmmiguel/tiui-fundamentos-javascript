@@ -1,10 +1,10 @@
 ## DESCRIPTION
 
-Nombre:
-Email:
-WhatsApp:
-Ciudad:
-Pais:
+Nombre: Miguel Cobian Meraz
+Email: miguelcobian99@gmail.com
+WhatsApp: 3131151313
+Ciudad: Colima
+Pais: México
 
 # Retos:
   - [ ] Primer problema
